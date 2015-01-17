@@ -1,0 +1,1 @@
+java -ms400m -mx1500m -jar bin/aligner.jar ~/Desktop/res/obama_malay_resampled.wav ~/Desktop/res/obama_malay.srt > obama_malay_output.txt
